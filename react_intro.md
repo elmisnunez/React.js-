@@ -6,7 +6,7 @@ React.js es una biblioteca de JavaScript de código abierto utilizada para const
 
 ## Diferencias entre React.js versión 18:
 
-### Routing:
+#. Routing:
 React Router es una biblioteca popular utilizada para el enrutamiento en aplicaciones React. Las versiones posteriores de React pueden incluir mejoras o nuevas características en la gestión del enrutamiento.
 ### Rendering:
 Se refiere al proceso de generar la interfaz de usuario en función del estado actual de la aplicación. Las versiones posteriores de React pueden incluir optimizaciones en el rendimiento de renderizado.
