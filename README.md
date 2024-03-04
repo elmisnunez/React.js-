@@ -8,20 +8,27 @@ React.js es una biblioteca de JavaScript de código abierto utilizada para const
 
 ### Routing:
 React Router es una biblioteca popular utilizada para el enrutamiento en aplicaciones React. Las versiones posteriores de React pueden incluir mejoras o nuevas características en la gestión del enrutamiento.
-Rendering: Se refiere al proceso de generar la interfaz de usuario en función del estado actual de la aplicación. Las versiones posteriores de React pueden incluir optimizaciones en el rendimiento de renderizado.
-Data Fetching: React ofrece diversas formas de realizar la recuperación de datos, como el uso de hooks de efecto, fetch API, o librerías externas como Axios. Las nuevas versiones podrían incluir mejoras en este aspecto.
-Styling: React no proporciona un mecanismo integrado para el estilo, pero es comúnmente utilizado junto con bibliotecas como styled-components o CSS modules. Las nuevas versiones podrían mejorar la integración con estas soluciones.
-Optimizaciones: Cada nueva versión de React puede incluir mejoras en el rendimiento y optimizaciones internas para hacer que las aplicaciones sean más rápidas y eficientes.
-TypeScript: React es compatible con TypeScript, lo que permite un desarrollo más seguro y escalable mediante la adición de tipos estáticos a JavaScript.
-Conceptos detrás de React:
+### Rendering:
+Se refiere al proceso de generar la interfaz de usuario en función del estado actual de la aplicación. Las versiones posteriores de React pueden incluir optimizaciones en el rendimiento de renderizado.
+### Data Fetching:
+React ofrece diversas formas de realizar la recuperación de datos, como el uso de hooks de efecto, fetch API, o librerías externas como Axios. Las nuevas versiones podrían incluir mejoras en este aspecto.
+### Styling:
+React no proporciona un mecanismo integrado para el estilo, pero es comúnmente utilizado junto con bibliotecas como styled-components o CSS modules. Las nuevas versiones podrían mejorar la integración con estas soluciones.
+### Optimizaciones: 
+Cada nueva versión de React puede incluir mejoras en el rendimiento y optimizaciones internas para hacer que las aplicaciones sean más rápidas y eficientes.
+### TypeScript: 
+React es compatible con TypeScript, lo que permite un desarrollo más seguro y escalable mediante la adición de tipos estáticos a JavaScript.
 
-## Components:
-### Los componentes
-en React son bloques de construcción reutilizables para crear interfaces de usuario. Pueden ser piezas pequeñas como botones o entradas de texto, o componentes más grandes como menús desplegables o formularios completos.
+## Conceptos detrás de React:
+
+### Components:
+Los componentesen React son bloques de construcción reutilizables para crear interfaces de usuario. Pueden ser piezas pequeñas como botones o entradas de texto, o componentes más grandes como menús desplegables o formularios completos.
 ### JSX: 
 JSX es una extensión de sintaxis para JavaScript que permite escribir código similar a HTML dentro de JavaScript. Es utilizado en React para definir la estructura de los componentes de manera más intuitiva.
-Props: Los props (abreviatura de "propiedades") son datos que se pasan de un componente padre a un componente hijo. Son inmutables y se utilizan para configurar un componente hijo.
-State: El estado es un objeto que contiene datos relevantes para un componente. Es mutable y controlado internamente por el componente. Cuando el estado de un componente cambia, React se encarga de volver a renderizar el componente para reflejar esos cambios en la interfaz de usuario.
+### Props: 
+Los props (abreviatura de "propiedades") son datos que se pasan de un componente padre a un componente hijo. Son inmutables y se utilizan para configurar un componente hijo.
+### State:
+El estado es un objeto que contiene datos relevantes para un componente. Es mutable y controlado internamente por el componente. Cuando el estado de un componente cambia, React se encarga de volver a renderizar el componente para reflejar esos cambios en la interfaz de usuario.
 
 ## Patrón de diseño Composite y su relación con React:
 
