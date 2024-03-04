@@ -69,4 +69,7 @@ function calculateWinner(squares) {
 const winner = calculateWinner(squares);
 
 
-# En resumen, el proyecto utiliza componentes de React para representar el juego de tres en línea. El componente Game es el componente principal que maneja el estado del juego y renderiza el tablero y la información del juego. Los componentes Square y Board son componentes reutilizables que representan los elementos individuales del juego y el tablero, respectivamente. La función calculateWinner se utiliza para determinar si hay un ganador en el juego.
+### En resumen, el proyecto utiliza componentes de React para representar el juego de tres en línea. El componente Game es el componente principal que maneja el estado del juego y renderiza el tablero y la información del juego. Los componentes Square y Board son componentes reutilizables que representan los elementos individuales del juego y el tablero, respectivamente. La función calculateWinner se utiliza para determinar si hay un ganador en el juego.
+
+
+
